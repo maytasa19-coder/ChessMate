@@ -1,1 +1,2 @@
 # ChessMate
+#michals note
